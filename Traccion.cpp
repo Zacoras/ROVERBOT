@@ -17,14 +17,11 @@
 // Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
 // MA 02110-1301, USA.
 // 
-// 
+//
 
 #include "Traccion.h"
 Traccion::Traccion(
-            PinName iv, PinName id,
-            PinName dv, PinName dd
-            ): dirI(id),velI(iv),
-               dirD(dd),velD(dv){}
+            PinName iv,,velD(dv){}
                
 Traccion::~Traccion(){}
 

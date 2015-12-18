@@ -1,6 +1,7 @@
 # ROVERBOT
 Proyecto de robot usando: STM32F411, plataforma ROVER5, MBED, MPU6050
-
+Hola soy Derick
+Oppa Gangna Style tururu tururur chuchuchu pa
 Para este proyecto se emplea una tarjeta STM32F411RET6(Nucleo F411), junto con MBED para una fácil programacion además de algunos sensores,motores, puentes H, todo montado sobre una plataforma ROVER 5. 
 # Requisitos
 	 gcc-arm-embedded: https://launchpad.net/gcc-arm-embedded
